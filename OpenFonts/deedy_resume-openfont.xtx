@@ -65,8 +65,10 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Ayush}{Kamal}{Jha}{
+    \href{http://fb.co/ayushJMjha}{fb.co/ayushJMjha}\\
+\href{mailto:ayushchelsea88@gmail.com}{ayushchelsea88@gmail.com} | 901-077-5350 |
+    \href{mailto:f2012082@hyderabad.bits-pilani.ac.in}{f2012082@hyderabad.bits-pilani.ac.in}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,22 +85,20 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{BITS Pilani}
+\descript{B.E in Electronics And Communication Engineering}
+\location{Aug 2016 | Hyderabad}
+\location{ Cum. GPA: 7.3 / 10.0 }
 \sectionsep
 
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\subsection{FIITJEE Junior College}
+\location{May 2012 |  Hyderabad}
+\location{ Percentage: 94.3% }
 \sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
+\subsection{Gitanjali Devshala(AP)}
+\location{May 2010 |  Hyderabad}
+\location{ Percentage: 93.14% }
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,52 +106,35 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+Facebook:// \href{https://www.facebook.com/ayushJMjha}{\bf ayushJMjha} \\
+LinkedIn://  \href{https://www.linkedin.com/pub/ayush-jha/102/90/b63}{\bf ayush-jha } \\
+Twitter://  \href{https://twitter.com/foreverblueJha}{\bf @foreverbluejha} \\
+Quora://  \href{https://www.quora.com/Ayush-Jha-4}{\bf Ayush-Jha-4}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
+\section{Electives}
+\subsection{Finance and Economics}
+Principles of Economics \\
+Functions & Working of Stock Exchanges \\
+Fundamentalks of Financial Accounting \\
+Security Analysis and Portfolio Management \\
+Derivatives and Risk Management \\
+Business Analysis and Valuation \\
 \sectionsep
 
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+\subsection{Humanities}
+Dynamics Of Social Change \\
+Popular Culture & Literature of South Asia \\
+Current Affairs \\
+Technical Report Writing \\
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Skills}
-\subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
-\sectionsep
+\subsection{Core}
+Analog and Digital VLSI Design \\
+Digital Image Processing \\
+Modern Communication Technologies \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -168,76 +151,62 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
-\sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{Indian Red Cross Society}
+\descript{| Finance and Marketing Intern }
+\location{May 2014 – July 2014 | National Headquarters, New Delhi}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}\item Analysed the balance sheets of the past 20 years, and created a history of its financial accounts.
+\item Enhanced the public outreach by transforming its marketing stratergy from print to social media.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
-\begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
-\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACADEMIC PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\section{Academic Projects}
+\runsubsection{Noise Removal from Electroencephalography (EEG) signals}
+\location{Aug 2014 – Dec 2014}
+An algorithm called Independent Component Analysis was used for EEG artifact removal in MATLAB using an open source toolbox called EEGLAB.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     POSITIONS OF RESPONSIBILITY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\section{Positions Of Responsibility}
+\runsubsection{Alternate Lead, Department of Publicity & Public Relations, Pearl’14}
+\location{Nov 2014 – Mar 2015}
+The National Annual Cultural Fest, Bits Pilani Hyderabad Campus
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{Core Member, Publicity Team, BITS EMBRYO}
+\location{Aug 2014 – May 2015}
+Department which organizes talks and lecture series throughout the year across all three campuses of BITS
+\sectionsep
+
+\runsubsection{Member, Event Management Team, BITS EMBRYO}
+\location{Aug 2013 – May 2014}
+\sectionsep
+
+\runsubsection{Member, Department of Sponsorship & Marketing, Atmos’13}
+\location{Aug 2013 – Oct 2013}
+The National Technical Fest, Bits Pilani Hyderabad Campus
+\sectionsep
+
+\runsubsection{Member, NSS}
+\location{Aug 2012 – May 2013}
+BITS Pilani Hyderabad Campus
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+\section{Awards}
+\begin{tabular}{r11}
+2015         & Winner  & Annual Fashion Show, Pearl'15\\
+2015         & 1\textsuperscript{st}  & Republic Day Marathon, BITS Pilani Hyderbad Campus\\
+2014         & Winner  & LIGA BPHC'14, Football League OF BITS Pilani Hyderabad Campus\\
 \end{tabular}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
-
-\end{minipage} 
-\end{document}  \documentclass[]{article}
