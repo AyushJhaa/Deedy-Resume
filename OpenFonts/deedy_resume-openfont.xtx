@@ -131,11 +131,6 @@ Popular Culture & Literature of South Asia \\
 Current Affairs \\
 Technical Report Writing \\
 
-\subsection{Core}
-Analog and Digital VLSI Design \\
-Digital Image Processing \\
-Modern Communication Technologies \\
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
@@ -155,7 +150,8 @@ Modern Communication Technologies \\
 \descript{| Finance and Marketing Intern }
 \location{May 2014 – July 2014 | National Headquarters, New Delhi}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item Analysed the balance sheets of the past 20 years, and created a history of its financial accounts.
+\begin{tightemize}
+\item Analysed the balance sheets of the past 20 years, and created a history of its financial accounts.
 \item Enhanced the public outreach by transforming its marketing stratergy from print to social media.
 \end{tightemize}
 \sectionsep
